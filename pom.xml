@@ -4,7 +4,7 @@
 	<artifactId>calculator</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<properties>
-		<sonar.organization>legrandulrich</sonar.organization>
+		<sonar.organization>legrandulrich-1</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.source>17</maven.compiler.source>
